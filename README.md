@@ -1,2 +1,1 @@
-Just a Basic Snake Game
-i used HTML, CSS and Javasacript
+I created a simple Snake game using HTML, CSS, and JavaScript.
